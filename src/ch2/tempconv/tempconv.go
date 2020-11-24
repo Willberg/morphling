@@ -1,5 +1,5 @@
 // 摄氏度与华氏度的转换
-package main
+package tempconv
 
 import "fmt"
 
